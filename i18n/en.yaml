@@ -1,5 +1,5 @@
 readMore:
-  other: Read More
+  other: 点击查看更多
 readingTime:
   other: '{{ .ReadingTime }} min read'
 toc:
